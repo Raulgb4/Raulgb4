@@ -1,4 +1,4 @@
-# 🚀 Aspiring Data & Software Engineer | Business Intelligence | Big Data 
+# 🚀 Computer Science Engineer | Business Intelligence | Big Data 
 
 ## 👋 About Me  
 I am a **Computer Science Engineer** in my final year at the **University of Málaga**. Passionate about **Big Data, Business Intelligence, and Web Development**, I am currently gaining hands-on experience through an external internship program.  
