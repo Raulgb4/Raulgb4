@@ -6,10 +6,10 @@ I am a **Computer Science Engineer** in my final year at the **University of Má
 I enjoy exploring **cutting-edge technologies** and applying my knowledge to solve real-world problems. My goal is to continue growing as a professional in a collaborative and dynamic environment.  
 
 ## 🔧 Tech Stack & Interests  
-- 📊 **Big Data & BI:** SQL | Power BI | ETL | Data Warehousing  
-- ☁️ **Cloud & Backend Development:** Java | Spring Boot | PostgreSQL | AWS  
+- 📊 **Big Data & BI:** SQL | Power BI | ETL | Tableau | Data Warehousing  
+- ☁️ **Cloud & Backend Development:** Java | Spring Boot
 - 🌐 **Web Development:** Angular | JavaScript | REST APIs  
-- 💻 **Programming:** Java | Python | SQL  
+- 💻 **Programming:** Java | Python
 
 ## 📂 Featured Projects  
 🔹 **[🔍 Browser Extension for Moodle Analytics](#)**  
