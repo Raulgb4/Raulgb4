@@ -1,4 +1,5 @@
-# 🚀 Computer Science Engineer | Business Intelligence | Big Data 
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Raúl%20García%20Balongo%20&textBg=false&animation=fadeIn&desc=Computer%20Science%20Engineer)
+# 👋 Hi, I'm Raúl!
 
 ## 👋 About Me  
 I am a **Computer Science Engineer** in my final year at the **University of Málaga**. Passionate about **Big Data, Business Intelligence, and Web Development**, I am currently gaining hands-on experience through an external internship program.  
