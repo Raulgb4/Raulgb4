@@ -16,6 +16,7 @@ I enjoy exploring **cutting-edge technologies** and applying my knowledge to sol
 A **browser extension** designed to help educators analyze student performance on Moodle. It extracts data from the virtual campus, generates **statistics and visualizations**, and allows exporting results. Built with **JavaScript, HTML, CSS**, and data processing tools.  
 
 ## 📫 Let's Connect!  
+- 💼 **CV:** [CV de Raúl](https://raulgb4.github.io/curriculum-vitae)  
 - 💼 **LinkedIn:** [Raúl García Balongo](https://www.linkedin.com/in/raúl-garcía-balongo-865948350)  
 - 📧 **Email:** raulgarciabalongoes@gmail.com  
 
