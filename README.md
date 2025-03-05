@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=647F57&text=Raúl%20García%20Balongo%20&textBg=false&animation=twinkling&desc=Computer%20Science%20Engineer&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=647F57&text=Raúl%20García%20Balongo&desc=Computer%20Science%20Engineer&animation=twinkling&fontColor=2E4A28)
 # 👋 Hi, I'm Raúl!
 
 ## 👋 About Me  
