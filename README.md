@@ -8,9 +8,8 @@ I enjoy exploring **cutting-edge technologies** and applying my knowledge to sol
 
 ## 🔧 Tech Stack & Interests  
 - 📊 **Big Data & BI:** SQL | Power BI | ETL | Tableau | Data Warehousing  
-- ☁️ **Cloud & Backend Development:** Java | Spring Boot
-- 🌐 **Web Development:** Angular | JavaScript | REST APIs  
-- 💻 **Programming:** Java | Python
+- ☁️ **Cloud & Backend Development:** Python, Django
+- 🌐 **Web Development:** Angular, REST APIs
 
 ## 📂 Featured Projects  
 🔹 **[🔍 Browser Extension for Moodle Analytics](#)**  
