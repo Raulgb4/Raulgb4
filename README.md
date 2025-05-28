@@ -2,9 +2,7 @@
 # 👋 Hi, I'm Raúl!
 
 ## 👋 About Me  
-I am a **Computer Science Engineer** in my final year at the **University of Málaga**. Passionate about **Big Data, Business Intelligence, and Web Development**, I am currently gaining hands-on experience through an external internship program.  
-
-I enjoy exploring **cutting-edge technologies** and applying my knowledge to solve real-world problems. My goal is to continue growing as a professional in a collaborative and dynamic environment.  
+I'm a Computer Science Engineering student currently completing my final year at the University of Málaga. I have recently finished my curricular internship at DEKRA Digital Solutions. During this experience, I worked in agile environments developing full-stack web applications using technologies such as Django, Angular, PostgreSQL, and Docker, while also applying tools like Git and Jira throughout the development lifecycle. I am passionate about data analysis and web development. I’m looking to continue growing professionally in a collaborative environment where I can add value and keep learning through real-world challenges and innovative technologies.
 
 ## 🔧 Tech Stack & Interests  
 - 📊 **Big Data & BI:** SQL | Power BI | ETL | Tableau | Data Warehousing  
