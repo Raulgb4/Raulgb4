@@ -2,16 +2,20 @@
 # 👋 Hi, I'm Raúl!
 
 ## 👋 About Me  
-I'm a Computer Science Engineering student currently completing my final year at the University of Málaga. I have recently finished my curricular internship at DEKRA Digital Solutions. During this experience, I worked in agile environments developing full-stack web applications using technologies such as Django, Angular, PostgreSQL, and Docker, while also applying tools like Git and Jira throughout the development lifecycle. I am passionate about data analysis and web development. I’m looking to continue growing professionally in a collaborative environment where I can add value and keep learning through real-world challenges and innovative technologies.
+I am a Computer Science Engineer specialized in Information Systems, graduated from the University of Málaga.
+During my internship at DEKRA Digital Solutions, I contributed to the development of full-stack web applications in an agile environment, using technologies such as Django, Angular, PostgreSQL, and Docker, along with collaboration tools like GitLab and Jira.
+
+I am passionate about data analysis and web development, fields in which I aim to continue growing professionally.
+My goal is to join a company where I can add value, learn from real projects, and keep developing my skills in innovative technologies and methodologies.
 
 ## 🔧 Tech Stack & Interests  
 - 📊 **Big Data & BI:** SQL | Power BI | ETL | Tableau | Data Warehousing  
-- ☁️ **Cloud & Backend Development:** Python, Django
-- 🌐 **Web Development:** Angular, REST APIs
+- ☁️ **Cloud & Backend Development:** Python | Django | Webpack
+- 🌐 **Web Development:** Angular | React | TailwindCSS | REST APIs
 
 ## 📂 Featured Projects  
 🔹 **[🔍 Browser Extension for Moodle Analytics](#)**  
-A **browser extension** designed to help educators analyze student performance on Moodle. It extracts data from the virtual campus, generates **statistics and visualizations**, and allows exporting results. Built with **JavaScript, HTML, CSS**, and data processing tools.  
+A **browser extension** designed to help educators analyze student performance on Moodle. It extracts data from the virtual campus, generates **statistics and visualizations**, and allows exporting results.
 
 ## 📫 Let's Connect!  
 - 💼 **CV:** [CV de Raúl](https://raulgb4.github.io/curriculum-vitae)  
