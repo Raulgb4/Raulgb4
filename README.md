@@ -14,7 +14,7 @@ My goal is to join a company where I can add value, learn from real projects, an
 - 🌐 **Web Development:** Angular | React | TailwindCSS | REST APIs
 
 ## 📂 Featured Projects  
-🔹 **[🔍 Browser Extension for Moodle Analytics](#)**  
+🔹 **[🔍 Browser Extension for Moodle Analytics](https://github.com/Raulgb4/BrowserExtension-MoodleDataAnalysis/tree/develop)**  
 A **browser extension** designed to help educators analyze student performance on Moodle. It extracts data from the virtual campus, generates **statistics and visualizations**, and allows exporting results.
 
 ## 📫 Let's Connect!  
