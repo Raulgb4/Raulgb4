@@ -2,11 +2,10 @@
 # 👋 Hi, I'm Raúl!
 
 ## 👋 About Me  
-I am a Computer Science Engineer specialized in Information Systems, graduated from the University of Málaga.
-During my internship at DEKRA Digital Solutions, I contributed to the development of full-stack web applications in an agile environment, using technologies such as Django, Angular, PostgreSQL, and Docker, along with collaboration tools like GitLab and Jira.
-
-I am passionate about data analysis and web development, fields in which I aim to continue growing professionally.
-My goal is to join a company where I can add value, learn from real projects, and keep developing my skills in innovative technologies and methodologies.
+Computer Science Engineer specialized in Information Systems from the University of Málaga.
+I’m passionate about data analysis and web development, fields in which I aim to keep growing and contributing value through real projects.
+I have experience with Python, C, C++, Django, Angular, React, Docker, TailwindCSS, PostgreSQL, Power BI, Business Intelligence, SEO, and project management using agile methodologies.
+I’m defined by technical curiosity, critical thinking, and a constant desire to keep learning.
 
 ## 🔧 Tech Stack & Interests  
 - 📊 **Big Data & BI:** SQL | Power BI | ETL | Tableau | Data Warehousing  
