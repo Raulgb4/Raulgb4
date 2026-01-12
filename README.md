@@ -17,7 +17,7 @@ I’m defined by technical curiosity, critical thinking, and a constant desire t
 A **browser extension** designed to help educators analyze student performance on Moodle. It extracts data from the virtual campus, generates **statistics and visualizations**, and allows exporting results.
 
 ## 📫 Let's Connect!  
-- 💼 **CV:** [CV de Raúl](https://raulgb4.github.io/curriculum-vitae)  
+- 💼 **CV:** [CV de Raúl](https://raulgb4.github.io/en/)  
 - 💼 **LinkedIn:** [Raúl García Balongo](https://www.linkedin.com/in/raúl-garcía-balongo-865948350)  
 - 📧 **Email:** raulgarciabalongoes@gmail.com  
 
